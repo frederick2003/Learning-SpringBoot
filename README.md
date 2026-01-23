@@ -6,7 +6,7 @@ This repository contains the codebase for working along with Introduction to Spr
 ```
 Learning-SpringBoot/
 ├── store
-├──
+├── messaging
 ├──
 ├──
 ├──
