@@ -2,7 +2,7 @@ package com.frederick2003.messaging;
 
 import org.springframework.stereotype.Service;
 
-@Service
+@Service("sms")
 public class SMSNotificationService implements NotificationService{
 
     @Override
