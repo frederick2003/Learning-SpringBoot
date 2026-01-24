@@ -25,9 +25,6 @@ public class AppConfig {
         if (stripeEnabled){
             return new OrderService(stripe());
         }
-        
         return new OrderService(paypal());
-
     }
-
 }
